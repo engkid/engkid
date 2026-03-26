@@ -28,7 +28,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_octicon: yes
-          config_timezone: America/Los_Angeles
+          config_timezone: Indonesia/Jakarta
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
