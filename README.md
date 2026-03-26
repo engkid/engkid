@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Engkit
 
-<!--
-**engkid/engkid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Senior iOS Engineer  
+📱 Swift | SwiftUI | Combine | UIKit  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 📈 Activity
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME)
+
+---
+
+## 🧠 About Me
+
+- 🔧 Modular architecture enthusiast
+- ⚡ Performance & stability focused
+- 🚀 CI/CD automation (Jenkins)
+- 🧪 Clean architecture & testing advocate
