@@ -1,8 +1,14 @@
 # 👋 Hi, I'm Engkit
 
 🚀 AI Assisted Software Engineer
+
+
 📱 Swift | SwiftUI | Combine | UIKit
+
+
 🕸️ Typescript | NextJS | Lua
+
+
 🖥️ Golang | PostgreSQL | Python | Rust | GraphQL | SQL
 
 ---
