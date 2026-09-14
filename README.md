@@ -8,7 +8,7 @@
 ---
 ## 📈 Github streaks
 
-![GitHub Streak](https://streak-stats.demolab.com?user=engkid&theme=tokyonight
+![GitHub Streak](https://streak-stats.demolab.com?user=engkid&theme=tokyonight)
 
 ---
 
