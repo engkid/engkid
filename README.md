@@ -6,7 +6,7 @@
 📱 Swift | SwiftUI | Combine | UIKit
 
 
-🕸️ Typescript | NextJS | Lua
+🕸️ Typescript | NextJS
 
 
 🖥️ Golang | PostgreSQL | Python | Rust | GraphQL | SQL
