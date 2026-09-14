@@ -1,24 +1,26 @@
 # 👋 Hi, I'm Engkit
 
-🚀 Senior iOS Engineer  
-📱 Swift | SwiftUI | Combine | UIKit  
+🚀 AI Assisted Software Engineer
+📱 Swift | SwiftUI | Combine | UIKit
+🕸️ Typescript | NextJS | Lua
+🖥️ Golang | PostgreSQL | Python | Rust | GraphQL | SQL
 
 ---
+## 📈 Github streaks
 
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engkid&layout=compact&theme=tokyonight)
-
----
-
-## 📈 Activity
-
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=engkid)
+![GitHub Streak](https://streak-stats.demolab.com?user=engkid&theme=tokyonight
 
 ---
 
 ## 🧠 About Me
 
+Currently geeking about AI in software engineering processes, interested in how we can utilize personalized AI tailored to my own product.
+Training AI to be collaborative, safe to work.
+Running personal project in automating AI agents to do repetitive works for me.
+
+- 🤖 Agentic AI Automation
+- 👾 Creating AI assisted software engineering
+- 📈 Software performance tuner
 - 🔧 Modular architecture enthusiast
 - ⚡ Performance & stability focused
 - 🚀 CI/CD automation (Jenkins)
